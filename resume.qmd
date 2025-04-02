@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aidan Ricks's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aidan Ricks
+College student.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,74 +13,41 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+studying computer science
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+game engin
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+physic simulations and story telling
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+ged
+some college
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Timberline Highschool__
+graduated 2021
 
-- Sizar
+__College of Western Idaho__
+2019-2021
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Brigham Young University - Idaho__
+2024-2025
 
-- Fellow
+__Boise State University__
+2025-Current
+
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Eagle Scout
 
 
 
